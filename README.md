@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🤝 I’m currently working at robocore.net as a Electronic Developer and projects programmer .<br>🌱 I’m currently Python and Web Development.<br>💬 Ask me about Arduino projects and Embedded Systems.<br>⚡ My nickname is portuguese (BR) for Little Turnip.
+🤝 I’m currently working at robocore.net as a Electronic Developer and projects programmer .<br>🌱 I’m currently invested in Arduino and KiCad Development tools.<br>💬 Ask me about Arduino projects and Embedded Systems.<br>⚡ My nickname is portuguese (BR) for Little Turnip.
 
 
 ## 🌐 Socials:
